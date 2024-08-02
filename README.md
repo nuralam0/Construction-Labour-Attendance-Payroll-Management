@@ -6,6 +6,7 @@ Attendance Tracking: Easily record and track the attendance of employees on a da
 Employee Management: Maintain detailed records of all employees, including personal details, job roles, and employment status.
 Payment & Salary Tracking: Automatically calculate and track payments, salaries, and other compensations for employees.
 Invoice Generation: Generate invoices for various services and completed projects.
+
 Upcoming Features
 Client Management: Keep track of client information and manage client relationships effectively.
 Quotation Generation: Create and manage quotations for potential projects and services.
